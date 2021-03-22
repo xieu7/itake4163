@@ -15,8 +15,8 @@ body {
 }
 
 .border {
-    width: 960px;
-    height: 1000px;
+    width: 900px;
+    height: 2000px;
     border-width: 2px !important;
     border-color: #e23124 !important;
 }
